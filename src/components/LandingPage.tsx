@@ -40,7 +40,7 @@ const LandingPage = ({ onStart }: LandingPageProps) => {
         <h1 className="text-3xl sm:text-5xl md:text-7xl font-bold text-foreground mb-3 sm:mb-4 font-serif px-2">
           I Love you so much
           <br />
-          My Diya
+          My Diya 🩷🛐
         </h1>
         
         <motion.p
@@ -49,7 +49,7 @@ const LandingPage = ({ onStart }: LandingPageProps) => {
           transition={{ delay: 0.5 }}
           className="text-lg sm:text-xl md:text-2xl text-muted-foreground mb-6 sm:mb-8 px-2"
         >
-          I made somthing for you My Love 🥹
+          I made something for you My Love 🥹
         </motion.p>
       </motion.div>
 
